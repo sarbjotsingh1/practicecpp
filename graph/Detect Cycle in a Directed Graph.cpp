@@ -87,7 +87,6 @@ int main()
 	g.addEdge(2, 0);
 	g.addEdge(2, 3);
 	g.addEdge(3, 3);
-
 	if(g.isCyclic())
 		cout << "Graph contains cycle";
 	else
