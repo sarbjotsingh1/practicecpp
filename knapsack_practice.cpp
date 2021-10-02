@@ -34,8 +34,8 @@ class Solution
     
     int knapSack(int W, int wt[], int val[], int n) 
     {
-        for (int i=0; i<1002; i++)
-            for (int j=0; j<1002; j++)
+        for (int i=0; i<W+2; i++)
+            for (int j=0; j<n+2; j++)
                 memArray[i][j] = -1;
         
         return maxKnapSack(wt, val, W, n);
