@@ -2,14 +2,12 @@
 
 Practice Coding Questions in Cpp
 
-# How to Contribute:
+## How to Contribute:
 
-1. Kindly mention link and descirption of problem statement in comments in your file. 
+### 1. Kindly mention link and descirption of problem statement in comments in your file.
 
 Example Format:
-
-> Copyright © 2021 Gurwinder Singh. All rights reserved.
-> 
+ 
 > Problem Statement:
 > https://www.interviewbit.com/problems/permutations/
 > 
