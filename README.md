@@ -1,2 +1,2 @@
 # practicecpp
-This repo is for putting out code 
+practice repo 
