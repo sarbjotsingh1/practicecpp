@@ -7,6 +7,7 @@
 class Solution {
 public:
     int dp[30];
+	
     int numTrees(int n) {
         dp[0] = dp[1] = 1;
         dp[2] = 2;
