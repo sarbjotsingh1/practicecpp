@@ -46,7 +46,5 @@ if(ford(vec,size,0,v)){
     }
 }
 else cout<<"not exists";
-
-
     return 0;
 }
