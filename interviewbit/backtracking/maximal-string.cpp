@@ -1,4 +1,4 @@
-//  Copyright © 2020 Gurwinder Singh. All rights reserved.
+//  Copyright © 2021 Gurwinder Singh. All rights reserved.
 // 
 //  Problem Statement:
 //  https://www.interviewbit.com/problems/maximal-string/
