@@ -4,7 +4,7 @@ Practice Coding Questions in Cpp
 
 ## How to Contribute:
 
-### 1. Kindly mention link and descirption of problem statement in comments in your file.
+### 1. Kindly mention link and description of problem statement in comments in your file.
 
 Example Format:
  
